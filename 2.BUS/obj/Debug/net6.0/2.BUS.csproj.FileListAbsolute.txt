@@ -1,0 +1,103 @@
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\bin\Debug\net6.0\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\obj\Debug\net6.0\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\bin\Debug\net6.0\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.pdb
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CopyComplete
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+D:\FPT\DuAn1\PROJECTS\DuAn1\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\bin\Debug\net6.0\1.DAL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\bin\Debug\net6.0\1.DAL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CopyComplete
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.pdb
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CopyComplete
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\bin\Debug\net6.0\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\bin\Debug\net6.0\1.DAL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\bin\Debug\net6.0\1.DAL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CopyComplete
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
+D:\FPT\DuAn1\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+D:\FPT\DuAn1\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.dll
+D:\FPT\DuAn1\DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+D:\FPT\DuAn1\DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.dll
+D:\FPT\DuAn1\DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.pdb
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CopyComplete
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.dll
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+D:\FPT\DuAn1\DuAn1\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.deps.json
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\2.BUS.pdb
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\bin\Debug\net6.0\1.DAL.pdb
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.AssemblyInfo.cs
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.sourcelink.json
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.csproj.CopyComplete
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\refint\2.BUS.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\2.BUS.pdb
+C:\Users\Admin\Documents\Nhom_3_DuAn1\2.BUS\obj\Debug\net6.0\ref\2.BUS.dll

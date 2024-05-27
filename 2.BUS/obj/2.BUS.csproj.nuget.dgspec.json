@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\2.BUS\\2.BUS.csproj": {}
+  },
+  "projects": {
+    "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\1.DAL\\1.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\1.DAL\\1.DAL.csproj",
+        "projectName": "1.DAL",
+        "projectPath": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\1.DAL\\1.DAL.csproj",
+        "packagesPath": "C:\\Users\\hviet\\.nuget\\packages\\",
+        "outputPath": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\1.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hviet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\2.BUS\\2.BUS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\2.BUS\\2.BUS.csproj",
+        "projectName": "2.BUS",
+        "projectPath": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\2.BUS\\2.BUS.csproj",
+        "packagesPath": "C:\\Users\\hviet\\.nuget\\packages\\",
+        "outputPath": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\2.BUS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hviet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\1.DAL\\1.DAL.csproj": {
+                "projectPath": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Du_An_1_Ban_Hang\\1.DAL\\1.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

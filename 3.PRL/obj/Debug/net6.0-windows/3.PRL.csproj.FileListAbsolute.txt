@@ -1,0 +1,547 @@
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_ThanhToan.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.KhachHang.Frm_ThemKH.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.NhanVien.Frm_ThemNV.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+E:\CODE\VisualStudio\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.KhachHang.Frm_ThemKH.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.NhanVien.Frm_ThemNV.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_ThanhToan.resources
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+C:\Users\Admin\Source\Repos\NHOM_3_DU_AN_-\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.KhachHang.Frm_ThemKH.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.NhanVien.Frm_ThemNV.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_ThanhToan.resources
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+E:\CODE\VisualStudio\SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.KhachHang.Frm_ThemKH.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.NhanVien.Frm_ThemNV.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_ThanhToan.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Quat\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.KhachHang.Frm_ThemKH.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.NhanVien.Frm_ThemNV.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_ThanhToan.resources
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.KhachHang.Frm_ThemKH.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.NhanVien.Frm_ThemNV.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_ThanhToan.resources
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\1.DAL.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\2.BUS.dll
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\2.BUS.pdb
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\bin\Debug\net6.0-windows\1.DAL.pdb
+D:\FPT\DuAn1\PROJECTS\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CopyComplete
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\1.DAL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\2.BUS.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\bin\Debug\net6.0-windows\1.DAL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\DU_AN_1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CopyComplete
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\1.DAL.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\2.BUS.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\2.BUS.pdb
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\1.DAL.pdb
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CopyComplete
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\1.DAL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\2.BUS.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\2.BUS.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\bin\Debug\net6.0-windows\1.DAL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CopyComplete
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.GiamGia.Frm_GiamGia.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.GiamGia.Frm_GiamGia.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\1.DAL.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\2.BUS.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\2.BUS.pdb
+D:\FPT\DuAn1\DuAn1\3.PRL\bin\Debug\net6.0-windows\1.DAL.pdb
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.GiamGia.Frm_GiamGia.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CopyComplete
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_HoaDonBanHang.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_HoaDonBanHang.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_HoaDonBanHang.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThongKe.Frm_ThongKe.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThongKe.Frm_ThongKe.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_PTTT.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_ThanhToan.resources
+E:\CODE\VisualStudio\$SOURCE TREE\Du_An_1_Ban_Hang\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.FrmLichSuTT.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.exe
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.deps.json
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.runtimeconfig.json
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\3.PRL.pdb
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\1.DAL.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\2.BUS.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\2.BUS.pdb
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\bin\Debug\net6.0-windows\1.DAL.pdb
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Properties.Resources.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_BaoHanh.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.BaoHanh.Frm_TaoPhieuBH.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_DangNhap2.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.DangNhap.Frm_QuenMK.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_DoiTra.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TaiKhoan.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_TrangChu.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.GiamGia.Frm_GiamGia.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_KhachHang.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_NhanVien.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.Frm_SanPham.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemBienThe.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemCTKhac.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.SanPham.Frm_ThemSP.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.FrmLichSuTT.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_HoaDonBanHang.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_PTTT.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_ThanhToan.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThongKe.Frm_ThongKe.resources
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.AssemblyInfo.cs
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.sourcelink.json
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.csproj.CopyComplete
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\refint\3.PRL.dll
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.pdb
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\3.PRL.genruntimeconfig.cache
+C:\Users\Admin\Documents\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\ref\3.PRL.dll
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.FrmLichSuTT.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_PTTT.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_ThanhToan.resources
+C:\Users\84385\Source\Repos\Nhom_3_DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThongKe.Frm_ThongKe.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.FrmLichSuTT.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_PTTT.resources
+D:\FPT\DuAn1\DuAn1\3.PRL\obj\Debug\net6.0-windows\_3.PRL.Views.ThanhToan.Frm_ThanhToan.resources

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\BaoHanh\Frm_TaoPhieuBH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DangNhap\Frm_DangNhap2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DangNhap\Frm_QuenMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\BaoHanh\Frm_BaoHanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DoiTra\Frm_DoiTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Frm_TaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\GiamGia\Frm_GiamGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\KhachHang\Frm_KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NhanVien\Frm_NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SanPham\Frm_SanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Frm_TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SanPham\Frm_ThemBienThe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SanPham\Frm_ThemCTKhac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SanPham\Frm_ThemSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ThanhToan\FrmLichSuTT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ThanhToan\Frm_HoaDonBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ThanhToan\Frm_PTTT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ThanhToan\Frm_ThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ThongKe\Frm_ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
